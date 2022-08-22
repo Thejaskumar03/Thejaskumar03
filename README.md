@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thejaskumar03
+- 👋 Hi, I’m Thejas Kumar
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning BE CSE
 - 💞️ I’m looking to collaborate on ...
